@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7549348",
+      "name": "搜索",
+      "font_class": "RectangleCopy",
+      "unicode": "e6a2",
+      "unicode_decimal": 59042
+    },
+    {
+      "icon_id": "7549366",
+      "name": "健康",
+      "font_class": "RectangleCopy1",
+      "unicode": "e6a5",
+      "unicode_decimal": 59045
+    },
+    {
+      "icon_id": "7549824",
+      "name": "仓库",
+      "font_class": "RectangleCopy2",
+      "unicode": "e6a7",
+      "unicode_decimal": 59047
+    },
+    {
+      "icon_id": "7549847",
+      "name": "服务",
+      "font_class": "RectangleCopy3",
+      "unicode": "e6ad",
+      "unicode_decimal": 59053
+    },
+    {
+      "icon_id": "7550034",
+      "name": "货",
+      "font_class": "RectangleCopy4",
+      "unicode": "e6af",
+      "unicode_decimal": 59055
+    },
+    {
+      "icon_id": "7551213",
+      "name": "商品管理",
+      "font_class": "RectangleCopy5",
+      "unicode": "e6b2",
+      "unicode_decimal": 59058
+    },
+    {
+      "icon_id": "7553627",
+      "name": "商家数据",
+      "font_class": "RectangleCopy6",
+      "unicode": "e6de",
+      "unicode_decimal": 59102
+    }
+  ]
+}
